@@ -1,0 +1,36 @@
+export const FooterData = [{
+        id: 1,
+        title: 'About Us',
+        link1: 'How it works',
+        link2: 'Testimonials',
+        link3: 'Careers',
+        link4: 'Investors',
+        link5: 'Terms of Service',
+    },
+    {
+        id: 2,
+        title: 'Contact Us',
+        link1: 'contact',
+        link2: 'support',
+        link3: 'destinations',
+        link4: 'Sponsorships',
+    },
+
+    {
+        id: 3,
+        title: 'Videos',
+        link1: 'Submit Video',
+        link2: 'Ambassadors',
+        link3: 'Agency',
+        link4: 'Influencer',
+    },
+    {
+        id: 4,
+        title: 'Social Media',
+        link1: 'Instagram',
+        link2: 'Facebook',
+        link3: 'Youtube',
+        link4: 'Investors',
+        link5: 'Terms of Service',
+    },
+];
